@@ -1,0 +1,3 @@
+[submodule "desktop/3rdparty/qthttpserver"]
+	path = desktop/3rdparty/qthttpserver
+	url = https://codereview.qt-project.org/qt-labs/qthttpserver

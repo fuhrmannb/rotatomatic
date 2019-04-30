@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icon.png</file>
+        <file>RemoteSensorView.qml</file>
+        <file>PreferenceDialog.qml</file>
+        <file>android.png</file>
+        <file>SensorDelegate.qml</file>
+    </qresource>
+</RCC>
